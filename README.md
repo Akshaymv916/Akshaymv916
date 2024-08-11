@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Python** and **Django**.
 - 💡 I’m interested in **problem-solving** and **web development**.
 - 💞️ I’m looking to collaborate on **open-source projects** and **Django applications**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/navaneeth2002)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akshay-mv-ba01bb282?)
 
 
 - 👨‍💻 All of my projects are available at [https://akshaymv916.github.io/portfolio-akshay-mv/](https://akshaymv916.github.io/portfolio-akshay-mv/)
