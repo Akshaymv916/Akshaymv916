@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshay mv</h1>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Akshaymv916&style=flat-square&color=blue)
+
+
 <h3 align="center">As a dedicated full stack developer with expertise in Python, I am eager to collaborate with innovative teams to design and implement efficient scalable web applications, leveraging my extensive experience in solving complex challenges and creating high-quality software solutions.</h3>
 
 - 👨‍💻 All of my projects are available at [https://akshaymv916.github.io/portfolio-akshay-mv/](https://akshaymv916.github.io/portfolio-akshay-mv/)
