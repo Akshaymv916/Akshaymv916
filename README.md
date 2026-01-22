@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akshaymv916.github.io/portfolio-akshay-mv/](https://akshaymv916.github.io/portfolio-akshay-mv/)
 
-- 📫 How to reach me **akshaychathanzz2000@gmail.com**
+- 📫 How to reach me **akshaymv2000916@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
